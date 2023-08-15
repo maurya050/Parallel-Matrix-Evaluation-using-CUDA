@@ -12,7 +12,7 @@ For the 4 different Matices A, B, C, and D of dimension p×q, q×r, p×q, r×q r
 <kbd>
 <div class="my-section" style= border: 1px solid #e1e4e8; "background-color: #f1f1f1; padding: 10px;">
 
-E = AB + C\(D^T\).
+E = AB + CD^T.
 
 
 </div>
