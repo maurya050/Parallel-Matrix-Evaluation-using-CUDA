@@ -10,7 +10,7 @@ $$
 E = AB + CD^T
 $$
 
-- Where , '' D^T '' is D transpose.
+- \( D^T \) is the transpose of matrix \( D \)
 * Implementing memory coalescing to ensure contiguous memory accesses, optimizing memory throughput, and maximizing
 GPU utilization during matrix calculations
 
