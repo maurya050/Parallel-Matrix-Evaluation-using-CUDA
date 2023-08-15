@@ -1,10 +1,6 @@
 # Parallel-Matrix-Evaluation-using-CUDA
 Parallel Matrix Evaluation using CUDA by considering the aspects of memory coalescing and shared memory.
 
-Implementing memory coalescing to ensure contiguous memory accesses, optimizing memory throughput, and maximizing
-GPU utilization during matrix calculations
-
-Leveraged shared memory effectively to minimize global memory accesses and accelerate matrix computation tasks.
 
 #### Goal:
 For the 4 different Matices A, B, C, and D of dimension p×q, q×r, p×q, r×q respectively. Computing another Matrix E after performing the below-given equation on the matrices
@@ -17,3 +13,8 @@ For the 4 different Matices A, B, C, and D of dimension p×q, q×r, p×q, r×q r
 
 </div>
 </kbd>
+
+Implementing memory coalescing to ensure contiguous memory accesses, optimizing memory throughput, and maximizing
+GPU utilization during matrix calculations
+
+Leveraged shared memory effectively to minimize global memory accesses and accelerate matrix computation tasks.
