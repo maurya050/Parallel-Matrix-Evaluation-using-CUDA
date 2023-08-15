@@ -10,6 +10,7 @@ For the 4 different Matices A, B, C, and D of dimension p×q, q×r, p×q, r×q r
 
     E = AB + CD^T
 
+    - by considering the aspects of memory coalescing and shared memory.
 
 </div>
 </kbd>
